@@ -18,4 +18,4 @@ __hello
 2.ho
 
 ![sai_tirumal_Nvr_Engineering_College]
-gi(https://www.itl.cat/pngfile/big/30-303191_background-images-for-editing-editing-pictures-background-background.jpg)
+[gi](https://www.itl.cat/pngfile/big/30-303191_background-images-for-editing-editing-pictures-background-background.jpg)
